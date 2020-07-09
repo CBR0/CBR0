@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I'm currentlt learning Dart for Flutter and how to apply most high performance to common web apps with tools of analisys like a Lighthouse in DevTools
+
 <!--
 **CleberOtaviano/CleberOtaviano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
